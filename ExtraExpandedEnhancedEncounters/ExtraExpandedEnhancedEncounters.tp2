@@ -41,6 +41,11 @@ LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
          ~ExtraExpandedEnhancedEncounters/translations/english/setup.tra~
          ~ExtraExpandedEnhancedEncounters/translations/schinese/setup.tra~
 
+LANGUAGE ~Polish (by Aristo)~
+         ~Polish~
+         ~ExtraExpandedEnhancedEncounters/translations/english/setup.tra~
+         ~ExtraExpandedEnhancedEncounters/translations/polish/setup.tra~
+
 BEGIN @1
 DESIGNATED 0
 LABEL OL-EEEE-COAST-WAY //AR2800
