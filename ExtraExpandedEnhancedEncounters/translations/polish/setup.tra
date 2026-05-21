@@ -1,0 +1,215 @@
+@0    = ~Extra Expanded Enhanced Encounters - mod do Baldur's Gate: Enhanced Edition (Trilogy), v2.0+~
+@1    = ~EEEE: Melia Quicknight (Nadbrzezny Trakt)~
+@2    = ~EEEE: Bimmy, dodatkowy bandyta (Samotne Szczyty)~
+@3    = ~EEEE: Trudniejsza Twierdza Gnolli~
+@4    = ~EEEE: Niedzwiedzie w poblizu Twierdzy Gnolli~
+@5    = ~EEEE: Nowe przedmioty dla Xana (kryjowka Mulaheya)~
+@6    = ~EEEE: Spotkanie z Daenni (Knieja Otulisko)~
+@7    = ~EEEE: Ognisty smok w jaskini wiwern~
+@8    = ~EEEE: Walka o Magmowy Bastion (Podziemne Miasto)~ 
+
+@10   = ~Ten komponent korzysta z plikow potworow z dodatku Siege of Dragonspear, ktorych brak w obecnej instalacji. Pomijam.~
+@11   = ~Wykryto niewspierana gre. Ta modyfikacja dziala tylko z Baldur's Gate: Enhanced Edition (Trilogy).~
+
+@101   = ~Melia Quicknight~
+@102   = ~Bimmy~
+@103   = ~Ric'Berna~
+@104   = ~Izzy'Nildarts~
+@105   = ~Ffud McKagan~
+@106   = ~El'xaesor~
+@107   = ~St. Never'Elda~
+@108   = ~Slash~
+@109   = ~Daenni~
+@110   = ~Większa wiwerna~
+@111   = ~Ognisty smok~
+@112   = ~Herszt gnolli~
+@113   = ~Porucznik gnolli~
+@114   = ~Weteran gnolli~
+@115   = ~Elita gnolli~
+@116   = ~Siepacz gnolli~
+@117   = ~Gnoll~
+
+@120   = ~Pierścień trafiania~
+@121   = ~Pierścienie trafiania nie są powszechnie spotykane w Krainach, ale od czasu do czasu poszukiwacze przygód mogą natknąć się na jeden z nich podczas swoich wędrówek. Ten egzemplarz wygląda na pozór jak zwykły pierścień, a jedyne, co przyciąga w nim wzrok, to ozdobny grawerunek i wprawiony weń obsydian. W ogniu bitwy jednakże pierścień zaczyna lekko rozbłyskiwać i staje się ciepły w dotyku. Ręce noszącego pierścień zdają się same wybierać najkorzystniejsze ruchy, by w walce wręcz wykorzystać błędy w postawie obronnej i najsłabsze punkty przeciwnika. Te wspaniałe magiczne pierścienie są wręczane adeptom walki pochodzenia szlacheckiego, a także innym osobom o pękatych sakiewkach, by po wstępnym treningu wspomóc ich umiejętności walki wręcz. Z tego względu są wysoce pożądane przez tych wszystkich, którzy zamierzają walczyć ostrzem czy bronią obuchową. Podobnie jak inne magiczne przedmioty podnoszące zdolności bojowe, tak i te pierścienie obdarzają zabójczymi umiejętnościami, ale nie mądrością, jak utrzymać się przy życiu.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: +2 (walka wręcz)~
+@122   = ~Większy pierścień trafiania~
+@123   = ~Pierścienie trafiania o takim stopniu umagicznienia są niezwykle rzadkie w Krainach, ale od czasu do czasu któryś pojawia się na najmroczniejszych ścieżkach wyrąbanych w kłębowisku życia i śmierci przez bohaterów stali i krwi. Ten magiczny pierścień został perfekcyjnie wykonany przez mistrza złotniczego z obrączki z czystego złota, którą zaklęto silnymi magicznymi urokami. Centralnym punktem pierścienia jest czarny obsydian wprawiony kunsztownie od środka obrączki. Nieprzenikniona czerń klejnotu wydaje się niemal żądać, by skierować na nią wzrok. Kiedy leje sie krew, kości pękają, a ciało jest rozdzierane, ten czarny jak noc klejnot połyskuje władczo i przejawia niemal własną wolę. Żądna krwi obrączka sama prowadzi rękę właściciela, doprowadzając jego przeciwników do szaleństwa. Te niezwykle skuteczne magiczne pierścienie często stanowią dumę najemników i bohaterów krwawych bitew. Nierzadko jeden z takich pierścieni jest przyczyną pojedynku na śmierć i życie, w którym właściciel pierścienia musi udowodnić, że jest godzien go nosić. Kto zatem decyduje się nosić tak potężny magiczny artefakt, musi zaakceptować drogę rozlewu krwi, którą prowadzi go ten pierścień, lub też nauczyć się go ukrywać przed przyszłymi bohaterami ścieżki stali i krwi.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: +3 (walka wręcz)~
+@124   = ~Zabójczyni magów Zaldora +2~
+@125   = ~Ta magiczna strzałka zabiła już wielu przeciwników, zarówno magów, jak i tych niewładających magią. Strzałka została wykonana około 500 lat temu w pobliżu Berdusk przez księżycowago elfa, złodzieja/maga Zaldora Cichoczara, który z jej pomocą chciał wygrywać pojedynki z wrogimi czarodziejami. Została zaklęta przez Zaldora w ten sposób, by po trafieniu przeciwnika przytłoczyć go przeszywającą magiczną energią i przeszkodzić mu w rzuceniu zaklęcia. Zaldor miał też dość ciągłego kupowania drogich magicznych strzałek, dlatego nie szczędząc wysiłków i wydatków, udało mu się tak zakląć strzałkę, by ta sama powracała do jego ręki. Mimo że strzałka ta może być zabójczą bronią, Zaldor używał jej na ogół tylko do wygrania pojedynku z rywalem, a nie do jego zabicia. W czasie swojego życia uśmiercił przy jej pomocy zaledwie kilka osób. Dopiero jego potomkowie zaczęli siać spustoszenie na Wybrzeżu Mieczy przy użyciu tej potężnej broni. W końcu zaś jego prawnuk, Xarnor Cichoczar, zginął w walce i utracił strzałkę w czasie polowania na wielką wiwernę w Kniei Otulisko.
+
+PARAMETRY:
+
+Specjalne:
+– Po rzucie wraca do właściciela
+
+Obrażenia: 1k3 +2, +1 od magii
+TraK0: +2
+Typ obrażeń: pocisk
+Opóźnienie: 0
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 0~
+@126   = ~Mikstura dodatkowego leczenia~
+@127   = ~Po całkowitym spożyciu, mikstura ta przywraca 15 punktów życia. Efekt jest natychmiastowy, a mikstura ulega zniszczeniu po użyciu.
+
+PARAMETRY:
+
+Specjalne:
+– Przywraca 15 punktów życia
+
+Waga: 1~
+@128   = ~Mikstura znaczącego leczenia~
+@129   = ~Po całkowitym spożyciu, mikstura ta przywraca 21 punktów życia. Efekt jest natychmiastowy, a mikstura ulega zniszczeniu po użyciu.
+
+PARAMETRY:
+
+Specjalne:
+– Przywraca 21 punktów życia
+
+Waga: 1~
+@130   = ~Łuski ognistego smoka~
+@131   = ~Te łuski młodego ognistego smoka są twarde jak kamień, a jednocześnie elastyczne jak wyprawiona skóra. Po odpowiedniej obróbce przez wprawnego rzemieślnika mogą zostać użyte do stworzenia znakomitej tarczy, zbroi, a może nawet spódnicy ochronnej. Do odważnych świat należy.
+
+PARAMETRY:
+
+Waga: 7~
+@132   = ~Zęby ognistego smoka~
+@133   = ~Sprytne, w rzeczy samej.
+
+PARAMETRY:
+
+Waga: 0~
+@134   = ~Zionięcie ognistego smoka~
+@135   = ~Silne Ramię +2~
+@136   = ~Ten masywny łuk był własnością łowcy Niedźwiedziej Łapy, który dostał go od niespotykanie życzliwego ogra. Nie dociekano powodów tego podarunku, ale łowca wzbudzał szacunek u każdego, kogo spotkał, i prawdopodobnie zaprzyjaźnił się z tą istotą podczas patrolowania Kniei Otulisko. Niedźwiedzia Łapa mógł naciągać ten łuk bez najmniejszego wysiłku, gdy zmarł, łuk przekazano jego żonie i synom, ale żadne z nich nie mogło go naciągnąć choćby do połowy. W końcu sprzedali go kupcowi podróżującemu na południe.
+
+PARAMETRY:
+
+Obrażenia: +3
+TraK0: +3
+Typ obrażeń: pocisk
+Opóźnienie: 5
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 19
+
+Waga: 7~
+@137   = ~Buty uników~
+@138   = ~Buty uników
+Te magiczne buty są pożądane przez tych, którzy chcą mieć przewagę nad przeciwnikami walczącymi na odległość. Buty tego rodzaju tworzy się po to, by nosząca je osoba czuła lecące w jej kierunku pociski i łatwiej ich unikała. Korzyść ta jest na tyle duża, że noszącemu może się wydawać, że nie imają się go żadne strzały, bełty czy inne pociski. Takie myślenie może jednak równie dobrze wpędzić do grobu, bo buty, choć są potężne, nie są niezawodne, i niektóre pociski mogą dosięgnąć noszącego.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +5 przeciw pociskom
+
+Waga: 4~
+
+@141   = ~Księżycowe ostrze +3~ // unused
+@142   = ~Ta potężna, prastara broń liczy sobie tysiące lat, a została wykonana przez płatnerzy ze starożytnego miasta Myth Drannor przed jego upadkiem po roku 711. Każde książycowe ostrze jest unikalne i posiada wysoce umagiczniony, a nawet boski księżycowy kamień umieszczony w rękojeści, jak również klingę opatrzoną mythalem. To wszystko sprawia, że tego rodzaju miecze traktowane są w Krainach nie jako zwykłe zaklęte bronie, ale raczej jako legendarne artefakty. Ten egzemplarz jest jednym z zaledwie dwudziestu pięciu aktywnych księżycowych ostrzy spośród 300-400 pozostających w uśpieniu w całych Krainach. Księżycowe ostrze wybiera swojego właściciela w trakcie pradawnego rytuału znanego jako Rytuał Ostrza, a w tym przypadku wybrańcem został elf Xan. Tylko on może go używać, gdyż miecz, jak każde księżycowe ostrze, parzy każdego, kto nie jest jego właścicielem. Jeżeli ktoś próbuje stać się wybrańcem księżycowego ostrza i zostanie odrzucony w trakcie rytuału, nie będzie w stanie nawet unieść miecza i natychmiast stanie w białych płomieniach, co niemal na pewno zakończy się jego śmiercią. Niektórzy twierdzą, że tylko osoby wywodzące się rodu królewskiego elfów mogą dzierżyć księżycowe ostrza. Inni z kolei uważają, że wystarczy być elfiego pochodzenia i dokonać wyjątkowo heroicznych czynów, by móc z powodzeniem przejść rytuał. Każdy kolejny użytkownik miecza dodaje do ostrza jakąś moc, na ogół w postaci runy. Istnieją księżycowe ostrza przyozdobione dziewięcioma i więcej runami, z których każda wyraża konkretnego byłego właściciela. Niektóre z takich mieczy posiadają zdolność „Cień elfa”, dzięki której miecz może stworzyć duplikat swojego właściciela, podobnie jak czyni to czar Mamidło. Księżycowe ostrza znane są też z wysysania sił życiowych trafionego wroga, a także z zawartych w nich niszczących magicznych energii. Wszystkie jednak się od siebie pod tym względem różnią, na co wpływ ma zarówno unikalność każdego miecza, jak też zdolności obecnych i przeszłych użytkowników. Wszystkie tego typu miecze są też szczególnie potężne w starciach z nieumarłymi. Księżycowe ostrze Xana to w obecnym jego stanie wpaniały oręż. Obdarza go różnorakimi ochronami, zarówno przed atakami fizycznymi, jak i magicznymi, zwiększając jednocześnie jego umiejętność posługiwania się bronią i moc rzucanych zaklęć.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Odporność na ogień: +50%
+– Odporność na magię: +10%
+– Poziom zaklęć czarującego: +1
+– 1/2 dodatkowego ataku na rundę
+– Dodaje jeden punkt biegłości w sztyletach
+– Zadaje 1 dodatkowe obrażenie od magii, lecząc jeden punkt życia, po trafieniu
+
+Właściwości ładunków:
+– Cień elfa: raz dziennie pozwala stworzyć magiczny duplikat użytkownika, podobnie jak czar Mamidło, na 10 rund
+
+Obrażenia: 1k8 +3, +5 przeciw nieumarłym
+TraK0: +3, +5 przeciw nieumarłym
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Waga: 3~
+@143   = ~Kolczuga evereskańskich Strażników Grobów +1~
+@144   = ~Ta mistrzowsko wykonana elfia kolczuga chroni noszącego przed atakami, nie ograniczając jednocześnie zdolności rzucania czarów. Ten egzemplarz magicznej kolczugi wywodzi się z Evereski, starożytnej siedziby elfów, gdzie przez wiele dekad służył tamtejszym Strażnikom Grobów, strzegącym miejsca pochówku zasłużonych zmarłych. Niewiele jest rzeczy otaczanych przez elfy z Evereski większą czcią niż ciała ich zmarłych towarzyszy. Niezliczeni bohaterowie, wielcy przywódcy i uczeni z Domu Fortecy spoczywają w grobowcach rozsianych po dolinie, zaś elfy uznają te miejsca za nienaruszalne. Jednakże w grobach znajdują się też bezcenne magiczne przedmioty, a plotki o nich krążące przyciągają wielu poszukiwaczy przygód i świętokradców, którzy pragną przetestować elfie zabezpieczenia i zrabować skarby. Zadaniem evereskańskich Strażników Grobów jest nie dopuścić do kradzieży. Każdy z nich przysięga też uroczyście, że będzie tropił rabusiów po całych Krainach i nie spocznie, dopóki świętokradcy nie zginą. Krypty na wschód od Evereski, leżące przy granicy z pustynią Anauroch, były często patrolowane przez strażników, ponieważ regularnie stawały się celem humanoidalnych oraz ludzkich grabieżców. Nawet jeśli niektóre z tych grobowców należały do pewnych znienawidzonych, dawno wymarłych elfich rodzin, Strażnicy Grobów, związani przysięgą, strzegli również ich. W rezultacie narastającej nieufności do obcych elfy z Evereski dodatkowo zaklęły tę zbroję przy pomocy tajemnych magicznych energii, by uzyskała więcej magicznych właściwości. Może ją jednak zakładać wyłącznie ktoś elfiego pochodzenia i odpowiednio oddany sprawie swojej rasy.
+
+PARAMETRY:
+
+Specjalne:
+– Zręczność: +1
+– TraK0: +1
+– Punkty Życia: +20
+– Pozwala zapamiętać dwa dodatkowe zaklęcia magii wtajemniczeń 3. poziomu
+– Nie ogranicza rzucania zaklęć
+
+Klasa Pancerza: 4 (2 przeciw broniom siecznym, 6 przeciw broniom obuchowym)
+
+Waga: 6~
+@145   = ~Opaska Zaginionej Stronicy +1~
+@146   = ~Ta magicznie ulepszona obręcz została stworzona przez jednego z najbystrzejszych członków organizacji znanej jako Frantowie Zaginionej Stronicy, mającej siedzibę w Everesce. Magiczne uroki, którymi nasycono tę kunsztownie wykonaną, a jednocześnie wytrzymałą opaskę, dodają noszącemu nieco ogólnej wytrzymałości. Co więcej, największy z trzech zaczarowanych księżycowych klejnotów zdobiących zaczarowaną opaskę zapewnia ochronne pole siłowe wokół czaszki, które chroni ją jak żelazny hełm, nie obciążając przy tym głowy. Założona na głowę, obręcz pozwala też noszącemu trzy razy dziennie rzucić zaklęcie Znajdowanie pułapek. Frantowie Zaginionej Stronicy to specjalna gałąź czarodziejów łotrzyków, którzy po mistrzowsku łączą swoją wiedzę o zaklęciach z zamiłowaniem do szelmostw, kradzieży i intryg. Choć wywodzą się z doliny Evereski, są aktywni w całych Krainach. Niektórych można spotkać nawet w szeregach mniej znanej gildii złodziejskiej w Everlund o nazwie Łotry Roześmianego Zmierzchu. Frantowie Zaginionej Stronicy współpracują z powodzeniem z duchowieństwem Erevana, ale równie dobrze z łotrzykami akrobatami, tancerzami cienia czy rabusiami świątyń z kościoła Erevana. Należą do najlepiej wyszkolonych złodziei w Krainach i nie zawahają się rzucić Opóźnionego roju meteorów w świątyni rywalizującego bóstwa, czy czaru Odzieranie na przeciwnika, któremu ukradli wcześniej bezcenny przedmiot lub artefakt. Często są wysyłani na niebezpieczne misje, by odzyskać skradzione elfie artefakty z innych kościółów.
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed trafieniami krytycznymi
+– Punkty Życia: +5
+
+Właściwości ładunków:
+– Pozwala rzucić Znajdowanie pułapek, trzy razy dziennie
+
+Wymagania:
+– Zręczność: 15
+– Inteligencja: 12
+
+Waga: 1~
+@147   = ~Puklerz nieoczekiwanej potęgi +2~
+@148   = ~Puklerz nieoczekiwanej potęgi, znany też pod rzadszą i bardziej kontrowersyjnę nazwą „Ramię egzystencjalisty”, jest niezwykle stary, a był początkowo zawieszaną na ścianie ozdobną tarczą heraldyczną pewnego bogatego szlacheckiego rodu, wywodzącego się z miasta Zachodnie Wrota. Herb dumnej niegdyś rodziny jest teraz nieczytelny, zaś po jego zatarciu na tarczę naniesiono symbol zaklęcia szóstego kręgu, Przemiana Tensera. Znawcy historii spierają się, jak do tego doszło, ponieważ źródła są w większości niekompletne będź niejasne. Wiadomo jednak z pewnością, że w latach 257-260 portowe miasto Wrota Zachodu zostało z sukcesem najechane przez siły pirackie z Morza Piratów, w wyniku czego dotychczasowe władze zostały usunięte i zastąpione przez najeźdźców. Tak radykalny przewrót wywołał wielkie zamieszanie pośród najbogatszych rodzin kupieckich w mieście, którym narzucono teraz niekorzystne regulacje handlowe i wysokie podatki. Źródła historyczne nie są zgodne co do tego, z którym konkretnie domem szlacheckim powiązany jest ten puklerz, zgadzają się natomiast w tym, że swoją dzisiejszą formę przyjął wkrótce po narzuceniu niesprawiedliwych praw przez samozwańczego „Króla Piratów na Zachodnich Wrotach”. Po obłożeniu transakcji handlowych niezwykle wysokimi podatkami jeden z najbardziej szanowanych szlachciców Wrót Zachodu otwarcie sprzeciwił się nowej polityce. Już następnego dnia siepacze króla piratów w samo południe wykonali na nim egzekucję na miejskim targowisku, w bezpośredniej bliskości siedzib konsorcjów handlowych. Rodziny kupieckie natychmiast zrozumiały, że albo zgodzą się na drakońskie taryfy, albo ich członków niezwłocznie spotka potworna śmierć. Od tego momentu historia staje się pogmatwana i rozpada się na sprzeczne ze sobą wersje różnych historyków Wrót Zachodu. Wiadomo na pewno, że niedługo po straceniu charyzmatycznego szlachcica na scenie wydarzeń pojawił się pewien młody, szlachetnie urodzony półelfi mag, którego nakłaniano, by sprzymierzył się z rządzącymi piratami z jednej strony albo z zewnętrznymi siłami Cormyru, chcącymi obalić uzurpatorów, z drugiej. Według historyków półelf nie opowiedział się po żadnej ze stron i po gwałtownej sprzeczce z rodziną opuścił rodową siedzibę we Wrotach Zachodu. Pytanie o okoliczności tego zdarzenia w pewnych miejscach we Wrotach Zachodu mogłoby doprowadzić do krzykliwych dysput, gwałtownych bójek, a nawet do rozlewu krwi pomiędzy niektórymi rodzinami szlacheckimi w mieście. Wielu sądzi, że wspomniany półelfi czarodziej miał w sobie tę samą błękitną krew, co ostatni prawowity król Wrót Zachodu, i że był jedynym ocalałym z rodu królewskiego. W związku z tym pomiędzy niektórymi starymi rodami Wrót dochodzi niekiedy do przelewu krwi. Kilka rodzin szlacheckich rości sobie bowiem prawa do rządzenia miastem, ponieważ każda z nich uważa, że ich linia krwi wywodzi się od półelfa maga, który niegdyś był właścicielem tego puklerza. Nie wiadomo, czy sprawa ta kiedykolwiek zostanie rozstrzygnięta, pewne jest natomiast, że magiczne zaklęcie nałożone na tę maleńką tarczę jest bardzo silne, i że mógł tego dokonać wyłącznie doświadczony i dobrze wyszkolony mag. Pozostaje tajemnicą, jakim sposobem nałożono umagicznienie i dlaczego zdecydowano się na tak niecodzienny zestaw magicznych właściwości. Historycy nie są też zgodni co do historii użycia tarczy i zdarzeń, których była świadkiem. Opinie są rozbieżne: od opowieści o wielkich przygodach po doniesienia o tchórzostwie i ucieczkach. Jak by nie patrzeć na dzieje tego puklerza i towarzyszące im kontrowersje, można być pewnym, że jest to tarcza o zaskakującej wartości i nieoczekiwanej potędze.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +3 (-2 przeciw pociskom, -3 przeciw bronim siecznym)
+– Dodaje jeden punkt biegłości w stylu walki mieczem i tarczą
+
+Właściwości ładunków: 
+– Pozwala rzucać Przemianę Tensera, trzy razy dziennie:
+Przemiana Tensera zmienia czarodzieja w heroicznego wojownika, podwajając jego punkty życia i obniżając Klasę Pancerza o 4. Przemiana trwa przez jedną rundę na każdy poziom rzucającego. Wszelkie obrażenia, jakie w tym czasie otrzymuje czarodziej, są najpierw odliczane od dodatkowych punktów życia. Ataki czarodzieja przyjmują parametry ataków wojownika tego samego poziomu. Ponadto każdy atak wykonywany jest z modyfikatorem +2 do testów trafienia i obrażeń.
+
+Waga: 1~
+
+@149   = ~Mniejszy pierścień trafiania~
+@150   = ~Pierścienie trafiania nie są powszechnie spotykane w Krainach, ale od czasu do czasu poszukiwacze przygód mogą natknąć się na jeden z nich podczas swoich wędrówek. Ten egzemplarz wygląda na pozór jak zwykły pierścień, a jedyne, co przyciąga w nim wzrok, to ozdobny grawerunek i wprawiony weń obsydian. W ogniu bitwy jednakże pierścień zaczyna lekko rozbłyskiwać i staje się ciepły w dotyku. Ręce noszącego pierścień zdają się same wybierać najkorzystniejsze ruchy, by w walce wręcz wykorzystać błędy w postawie obronnej i najsłabsze punkty przeciwnika. Te wspaniałe magiczne pierścienie są wręczane adeptom walki pochodzenia szlacheckiego, a także innym osobom o pękatych sakiewkach, by po wstępnym treningu wspomóc ich umiejętności walki wręcz. Z tego względu są wysoce pożądane przez tych wszystkich, którzy dzierżą miecze i bronie obuchowe. Podobnie jak inne magiczne przedmioty podnoszące zdolności bojowe, tak i te pierścienie obdarzają zabójczymi umiejętnościami, ale nie mądrością, jak pozostać przy życiu.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: +1 (walka wręcz)~
+
+@151   = ~Zbroja z łusek ognistego smoka +2~
+@152   = ~Ta połyskująca na czerwono skórzana zbroja jest miękka i elastyczna, pomimo wzmocnienia jej twardymi płytkami z łusek ognistego smoka. Osoba nosząca ten pancerz jest chroniona zarówno przed najsilniejszymi ciosami, jak również znacząco odporna na działanie ognia. Należy jednak uważać, by nie nosić go w pobliżu smoków.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień: +66%
+
+Klasa Pancerza: 5 (3 przeciw obrażeniom siecznym, 4 przeciw obrażeniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 6
+
+Waga: 7~
+
+@153   = ~Zbroja ta opiera się wszelkim próbom założenia poprzez duszenie noszącego. Widocznie jest dopasowana do właściciela i nikt inny nie może jej używać.~ [GAM_47]
