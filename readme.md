@@ -112,3 +112,7 @@ Added: Spanish translation by alaisFcZ.
 ### Version 4.3
 
 Added: Simplified Chinese translation by Lewis Liu (Lzw104522773).
+
+### Version 4.4
+
+Added: Polish translation by Aristo.
