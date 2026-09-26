@@ -116,3 +116,7 @@ Added: Simplified Chinese translation by Lewis Liu (Lzw104522773).
 ### Version 4.4
 
 Added: Polish translation by Aristo.
+
+### Version 4.5
+
+Added: German translation by Nibor_Scot.

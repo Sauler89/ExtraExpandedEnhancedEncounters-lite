@@ -1,0 +1,222 @@
+@0  = ~Zusätzliche erweiterte und verbesserte Begegnungen für Baldur's Gate: Enhanced Edition (Trilogy), Version 2.0+~
+@1  = ~EEEE: Melia Quicknight, Kreuzweg~
+@2  = ~EEEE: Bimmy's lästige Banditen~
+@3  = ~EEEE: Befestigte Gnoll-Festung~
+@4  = ~EEEE: Bärenbegegnung in der Nähe der Gnoll-Festung~
+@5  = ~EEEE: Xan's neuer Hain (neue Gegenstände in Mulaheys Höhle)~
+@6  = ~EEEE: Daenni's Brückenbanditen~
+@7  = ~EEEE: Der Feuerdrache in der Wyvern Höhle~
+@8  = ~EEEE: Unterstadt Magma Bollwerk Begegnung; Rotes Skelett-(U.M.B.E.R.S.)~
+
+@10 = ~Diese Komponente verwendet ausschließlich Monster aus Siege of Dragonspear, die in der aktuellen Installation fehlen. Überspringen.~
+@11 = ~Nicht unterstütztes Spiel erkannt. Diese Mod funktioniert nur mit Baldur's Gate: Enhanced Edition (Trilogy).~
+
+@101 = ~Melia Quicknight~
+@102 = ~Bimmy~
+@103 = ~Ric'Berna~
+@104 = ~Izzy'Nildarts~
+@105 = ~Ffud McKagan~
+@106 = ~El'xaesor~
+@107 = ~St. Never'Elda~
+@108 = ~Slash~
+@109 = ~Daenni~
+@110 = ~Größere Wyvern~
+@111 = ~Feuerdrache~
+@112 = ~Gnoll Häuptling~
+@113 = ~Gnoll Leutnant~
+@114 = ~Gnoll Veteran~
+@115 = ~Gnoll Elite~
+@116 = ~Gnoll Schläger~
+@117 = ~Gnoll~
+
+@120 = ~Ring des präzisen Schlags +2~
+@121 = ~Ringe des präzisen Schlags sind in den Reichen nicht weit verbreitet, tauchen jedoch bisweilen auf den Reisen umherziehender Abenteurer auf. Dieser magische Ring mag wie ein gewöhnliches Schmuckstück wirken, verziert mit einem obsidianschwarzen Edelstein, der den Blick auf sich zieht. Doch im Eifer des Gefechts leuchtet der Ring schwach auf und erwärmt sich. Wer einen dieser Ringe trägt und zum Schlag mit einer Nahkampfwaffe ausholt, dessen Hände scheinen wie von selbst zu gleiten und Schwachstellen in der Haltung und Verteidigung des Gegners aufzudecken. Diese großartigen magischen Ringe werden oft an Lehrlinge von Adligen oder anderen wohlhabenden Gönnern vergeben, um deren Nahkampffertigkeiten nach dem Übergang vom Lehrling zum Gesellen in der blutigen Kunst des Nahkampfs zu verbessern. Daher sind diese Ringe bei all jenen heiß begehrt, die eine Klinge oder eine wuchtige Hieb- oder Schlagwaffe führen. Wie die mächtigeren Varianten magischer Gegenstände, die das Waffengeschick und die Kampfkraft steigern, verleihen auch diese Ringe tödliche Fähigkeiten, jedoch nicht die Weisheit, lange genug zu überleben, um dieses Können auch zu bewahren.
+
+WERTE:
+
+Fähigkeiten bei Ausrüstung:
+
+Nahkampf-THAC0: +2~
+@122 = ~Ring des präzisen Schlags +3~
+@123 = ~Ringe des präzisen Schlags von einer solchen Macht wie dieser sind in den Reichen äußerst selten. Dennoch tauchen sie bisweilen auf den blutigen Pfaden auf, die sich Champions aus Blut und Stahl im endlosen Kreislauf von Leben und Tod bahnen, während sie im unstillbaren Zorn ganze Scharen niederer Wesen niedermähen. Dieser magische Ring wurde von einem Meisterjuwelier makellos gefertigt. Er besteht aus einem reinen Goldreif, der mit mächtigen Zaubern belegt ist. Das Herzstück des Rings bildet ein obsidianschwarzer Edelstein, der meisterhaft von der Rückseite des Reifs aus eingefasst wurde, eine handwerkliche Meisterleistung von enormer Schwierigkeit. Das undurchdringliche Schwarz des Juwels scheint den Blick des Betrachters geradezu zu fesseln. Wenn Blut fließt, Knochen brechen und Fleisch zerfetzt wird, leuchtet der nachtschwarze Stein machtvoll auf und scheint an der Hand des Trägers fast einen eigenen Willen zu entwickeln. Der blutgierige Ring scheint ein Eigenleben zu führen und zerrt an der Hand seines Trägers. Er lenkt dessen Nahkampfangriffe direkt in die Schwachstellen der Gegner. Diese überaus wirkungsvollen magischen Ringe sind oft der ganze Stolz von Söldnern oder kampferprobten Recken. Nicht selten verwickelt der Besitz eines solchen Rings den Eigentümer in erbitterte Duelle auf Leben und Tod, in denen es um das Recht geht, das Artefakt zu führen. Waffenmeister haben schon für weniger gemordet. Wer sich also entschließt, eine solch mächtige magische Gabe anzulegen, sollte bereit sein, den blutigen Pfad zu beschreiten, den diese Ringe hinterlassen oder aber dafür sorgen, dass das Objekt vor jedem verborgen bleibt, der sich als nächster Meister von Blut und Stahl aufspielen will.
+
+WERTE:
+
+Ausrüstungseffekte:
+
+Nahkampf-THAC0: +3~
+@124 = ~Zaldors Magiertöter +2~
+@125 = ~Dieser magische Wurfpfeil hat schon zahllose Magier und Nichtmagier gleichermaßen dahingerafft. Er wurde vor etwa 500 Jahren in der Nähe der Stadt Berdusk von dem Mondelfen und Magierdieb Zaldor Silentspell gefertigt, um ihm bei Duellen gegen rivalisierende Magier zum Sieg zu verhelfen. Zaldor belegte den Pfeil mit einem Zauber, der das Ziel bei einem Treffer in störende magische Energie hüllte und so den Gegner im Kampf beim Wirken von Zaubern behinderte. Da er es leid war, ständig teuren Ersatz für seine magischen Wurfpfeile beschaffen zu müssen, investierte Zaldor viel Mühe und Gold, um den Pfeil so zu verzaubern, dass er nach dem Wurf in seine Hand zurückkehrte. Obwohl der verzauberte Pfeil tödlich ist, setzte Zaldor ihn meist nur ein, um seine Rivalen in Duellen zu besiegen, nicht aber, um sie tatsächlich zu töten. Zu seinen Lebzeiten erschlug Zaldor Silentspell nur wenige Feinde mit seinem geschätzten magischen Wurfpfeil. Erst seine Nachfahren richteten mit dieser mächtigen Waffe verheerende Schäden an der Schwertküste an. Schließlich fiel sein Urenkel Xarnor Silentspell im Kampf. Er verlor den Pfeil während eines Streifzugs durch den Mantelwald, bei dem er einen riesigen Lindwurm erlegen wollte.
+
+WERTE:
+
+Kampfeigenschaften:
+
+Kehrt nach dem Wurf in die Hand des Werfers zurück
+
+ETW0: +2
+Schaden: 1W3+2, +1 magischer Schaden
+Schadensart: Fernkampf
+Geschwindigkeitsfaktor: 0
+Fertigkeitstyp: Wurfpfeil
+Typ: Einhändig
+
+Gewicht: 0 Pfund~
+@126 = ~Trank der zusätzlichen Heilung~
+@127 = ~Bei vollständigem Verzehr stellt dieser Trank 15 Trefferpunkte wieder her. Die Wirkung tritt sofort ein, und der Trank wird dabei verbraucht.
+
+WERTE:
+
+Besonderheit: Stellt 15 Trefferpunkte wieder her.
+
+Gewicht: 1 Pfund~
+@128 = ~Trank der beachtlichen Heilung~
+@129 = ~Bei vollständigem Verzehr stellt dieser Trank 21 Trefferpunkte wieder her. Die Wirkung tritt sofort ein, und der Trank wird dabei verbraucht.
+
+WERTE:
+
+Besonderheit: Stellt 21 Trefferpunkte wieder her.
+
+Gewicht: 1 Pfund~
+@130 = ~Feuerdrachenschuppen~
+@131 = ~Diese Feuerdrachenschuppen sind hart wie Stein, aber dennoch biegsam wie Stiefelleder. Von einem meisterhaften Handwerker richtig bearbeitet, könnten diese Schuppen einen hervorragenden Schild, eine Rüstung oder vielleicht sogar einen schützenden Faltenrock ergeben. Dem Wagemutigen steht die Welt offen.
+
+WERTE:
+
+Gewicht: 7 Pfund~
+@132 = ~Feuerdrachenzähne~
+@133 = ~Wirklich sehr verschlagen.
+
+WERTE:
+
+Gewicht: 0 Pfund~
+@134 = ~Feuerdrachenatem~
+@135 = ~Starker Arm +2~
+@136 = ~Dieser gewaltige Bogen gehörte dem Waldläufer Bärentatze, der ihn Berichten zufolge von einem seltsam wohlwollenden Oger erhalten hatte. Der Grund für dieses Geschenk wurde nie bekannt, doch Bärentatze erwarb sich den Respekt aller, denen er begegnete, und freundete sich wahrscheinlich mit der Kreatur an, während er im Mantelwald patrouillierte. Bärentatze konnte den Bogen ohne die geringste Anstrengung spannen. Nach seinem Tod wurde die Waffe jedoch an seine Frau und seine Söhne weitergegeben, von denen nicht einer die Sehne auch nur halbwegs ziehen konnte. Schließlich verkauften sie ihn an einen Händler, der in den Süden reiste.
+
+WERTE:
+
+ETW0: +3
+Schaden: +3 (Fernkampf)
+Geschwindigkeitsfaktor: 4
+Fertigkeit: Langbogen
+Typ: Zweihändig
+Voraussetzung: Stärke 19
+
+Gewicht: 7 Pfund~
+@137 = ~Stiefel des Ausweichens~
+@138 = ~Stiefel des Ausweichens
+Diese magischen Stiefel sind bei Kämpfern aller Art begehrt, die sich einen Vorteil gegenüber Fernkampfgegnern verschaffen wollen. Stiefel dieser Art sind darauf ausgelegt, ankommende Geschosse zu erkennen und dem Träger zu helfen, ihnen auszuweichen. Sie bieten dem Träger einen erheblichen Vorteil, doch allzu selbstsichere Personen könnten sich für unverwundbar gegenüber Pfeilen, Bolzen und Ähnlichem halten, eine Denkweise, die einen nur allzu leicht vorzeitig ins Grab bringt. Diese Stiefel sind zwar mächtig, aber nicht unfehlbar. Hin und wieder wird ein Geschoss den Träger dennoch treffen.
+
+WERTE:
+
+Fähigkeiten bei Ausrüstung:
+
+Rüstungsklasse: +5 gegen Fernkampfangriffe
+
+Gewicht: 4~
+
+@141 = ~Mondklinge +3~ // unbenutzt
+@142 = ~Diese mächtige Waffe ist uralt, sie zählt bereits Jahrtausende, und wurde von den Schmieden des alten Myth Drannor noch vor dem Fall der Stadt im Jahr 711 DR gefertigt. Jede Mondklinge ist ein Unikat. Sie besitzt einen hochmagischen, wenn nicht gar göttlichen Mondsteinkristall im Knauf und ist mit einem Mythal belegt. Damit sind diese Schwerter keine gewöhnlichen magischen Waffen der Reiche, sondern zu Recht legendäre Artefaktwaffen. Mondklingen spielen eine entscheidende Rolle bei der langwierigen Wahl eines Herrschers für die Insel Evermeet. Im Grunde sind sie buchstäbliche Königsmacher oder Königstöter  so etwa die mächtigste aller Mondklingen, die Königsklinge. Diese Mondklinge ist ein Relikt aus längst vergangener Zeit und ein Veteran des Kriegs der Tränen, der im Fall von Myth Drannor durch die Armee der Dunkelheit gipfelte. Ein früherer Träger oder Erbe dieser Klinge zog sich nach dem Fall im Jahr 714 DR auf die Insel Evermeet zurück. 175 Jahre später, im Jahr 889 DR, entstand in Leuthilspar, der Hauptstadt des Inselreichs Evermeet, eine neue Form der Alleinherrschaft: Die Königsklinge, eine der wenigen aus Myth Drannor geretteten Mondklingen, wählte durch ihr Klingenritual Zaor Moonflower zu ihrem neuen Träger. Dieser wurde daraufhin zum König von Evermeet gekrönt. Diese Mondklinge ist eine von nur 25 aktiven Mondklingen, während in den gesamten Reichen noch 300 bis 400 weitere ruhen. Im Falle einer dieser Mondklingen fiel die Wahl auf den Elfen Xan. Nur Xan kann diese Klinge führen. Für jeden anderen fühlt sie sich bei Berührung wie glühendes Feuer an. Sollte jemand anderes versuchen, von der Mondklinge als neuer Träger auserwählt zu werden, aber im Klingenritual abgelehnt werden, so kann er die Waffe nicht anheben. Stattdessen bricht er augenblicklich in weiße Flammen aus, was fast unweigerlich seinen Tod zur Folge hat. Zudem heißt es, dass nur Angehörige einer königlichen Elfenlinie eine Mondklinge führen dürfen. Doch diese Ansicht lässt sich anfechten oder die Beschränkung durch außergewöhnliche Heldentaten einer Person elfischer Abstammung im Rahmen des Klingenrituals überwinden. Jeder Träger einer Mondklinge verleiht der Waffe eine eigene Macht, die sich oft in Form einer Rune manifestiert. Es sind Mondklingen bekannt, die neun oder mehr solcher Runen aufweisen, wobei jede einzelne auf einen bestimmten Träger verweist. Jede Mondklinge besitzt die Fähigkeit des Elfenschattens, durch die das Schwert seinen aktuellen Träger duplizieren kann, ähnlich dem Zauber Simulakrum. Alle Mondklingen gehören zu einer besonderen Art von Relikten, die ihren Feinden bei einem Treffer die Lebenskraft entziehen. Zudem stören sie magische Energien. Ihre genauen Eigenschaften variieren jedoch von Fall zu Fall, bedingt durch die Einzigartigkeit der jeweiligen Klinge und ihrer uralten Ahnenreihe aus früheren und gegenwärtigen Trägern, die durch das Klingenritual dazu auserkoren wurden. Gegen Untote sind alle Mondklingen überaus mächtig, da sie diese bei Berührung buchstäblich zum Sieden bringen. Xan's Mondklinge ist in ihrem jetzigen Zustand eine gewaltige Macht: Sie verleiht Xan vielfältigen Schutz vor magischen wie physischen Bedrohungen und stärkt zudem seine magischen Fähigkeiten sowie sein kämpferisches Geschick. Wird diese mächtige Elfenklinge zudem auf die richtige Weise erweckt, lassen sich die in ihr schlummernden, uralten Kräfte nutzen, ein Erbe, das von ihrer Schmiedung in Myth Drannor bis hin zu ihrer langen Geschichte und der Ahnenreihe jener Träger reicht, die durch das Klingenritual auserwählt wurden.
+
+WERTE:
+
+Ausrüstungseffekte:
+
+Rüstungsklasse: +1
+Feuerresistenz: +50 %
+Magieresistenz: +10 %
+Zaubererstufe: +1
+1/2 zusätzlicher Angriff pro Runde
+Gewährt Fertigkeit (ein Slot) im Umgang mit Dolchen
+
+Kampffähigkeiten:
+
+Verursacht bei einem Treffer 1 Punkt magischen Schaden am Ziel und heilt den Träger um 1 Trefferpunkt
+
+Aufladbare Fähigkeiten:
+
+Elfenschatten: Einmal täglich für 10 Runden, erschafft ein magisches Abbild des Trägers, ähnlich dem Zauber Simulakrum
+
+ETW0: +3, +5 gegen Untote
+Schaden: 1W8+3, +5 gegen Untote
+Schadensart: Hiebwaffe
+Geschwindigkeitsfaktor: 2
+Waffentyp: Dolch
+Typ: Einhändig
+
+Gewicht: 3 Pfund~
+@143   = ~Kettenhemd der Evereska-Grabwächter +1~
+@144   = ~Dieses meisterhaft gefertigte, magische Elfenkettenhemd schützt den Träger vor physischen Angriffen, ohne dessen Zauberfähigkeit zu beeinträchtigen. Diese magische Rüstung stammt aus der alten Elfensiedlung Evereska und diente jahrzehntelang den dortigen Grabwächtern, die Magie, List und Pflichtgefühl einsetzten, um die Ruhestätten ihrer verehrten Toten zu verteidigen. Für die Elfen von Evereska gibt es kaum etwas Heiligeres als die Leichname ihrer Toten. Unzählige große Anführer, Helden und Gelehrte ihrer Festungsheimat ruhen in Gräbern, die über die gesamte Region verstreut sind, und die Elfen betrachten diese Stätten als unantastbar. Leider bergen die Gräber auch unschätzbare magische Schätze aus alter Zeit. Die Aussicht auf eine solche Beute verleitet viele Plünderer dazu, die Verteidigungsanlagen der Elfen auf die Probe zu stellen. Die Grabwächter von Evereska sorgen dafür, dass diese Verteidigung äußerst wirksam ist. Jeder Grabwächter leistet einen feierlichen Schwur, Grabräuber bis ans Ende der Reiche und darüber hinaus zu verfolgen und nicht eher zu ruhen, bis die Schänder erschlagen sind. Die östlich von Evereska an der Grenze zur Anauroch-Wüste gelegenen Gräber wurden regelmäßig von Grabwächtern patrouilliert, da sie häufiges Ziel menschlicher und humanoider Grabräuber waren. Manche dieser Gräber gehörten verhassten, längst verstorbenen Elfenfamilien, doch die Grabwächter hielten dennoch an ihrem Schwur fest, diese Ruhestätten zu beschützen. Aufgrund ihres tiefen Misstrauens gegenüber Fremden belegten die Elfen von Evereska dieses Bollwerk mit magischen Energien: Sie stärken und schützen den Träger dieses makellosen, fein gewebten Elfenkettenhemds, beschränken dessen Nutzung jedoch zugleich auf Personen elfischer Abstammung, die sich der Sache angemessen verschrieben haben.
+
+WERTE:
+
+Ausrüstungseffekte:
+Geschicklichkeit: +1
+THAC0: +1
+Trefferpunkte: +20
+Ermöglicht das Einprägen von zwei zusätzlichen Magierzaubern des 3. Grades
+Zaubern ist weiterhin möglich
+
+Rüstungsklasse: 4 (+2 gegen Hiebwaffen, +6 gegen Wuchtwaffen)
+
+Gewicht: 6 Pfund~
+@145   = ~Band der fehlenden Seite +1~
+@146   = ~Dieses magisch verstärkte Schutzband wurde für einige der magisch begabtesten Mitglieder eines Ordens namens Schurken der fehlenden Seiten aus Evereska geschaffen. Die magischen Verzauberungen dieses fein gearbeiteten und zugleich robusten Stirnbandes verleihen dem Träger eine allgemeine Widerstandskraft. Zudem erzeugt der größte der drei verzauberten Mondsteine, die das Band an der Stirn zieren, ein schützendes Kraftfeld um den Schädel. Dieses bietet Schutz wie ein gewöhnlicher Eisenhelm, jedoch ohne dessen Behinderung. Wer das Band trägt, erhält zudem die Macht über den Zauber Fallen finden und kann diesen dreimal täglich wirken. Die magische Energie regeneriert sich nach einem vollen Tag der Ruhe. Die Schurken der fehlenden Seiten sind eine besondere Art von schurkischen Magiern. Sie beherrschen Zauber und verbinden dieses Wissen mit ihrer ausgeprägten Vorliebe für Schabernack, Diebstahl und Intrigen. Sie sind ein bekanntes Beispiel für Zauberdiebe, die zwar im Tal von Evereska ansässig sind, aber in den gesamten Reichen operieren. Es gibt sogar einige Mitglieder dieses Ordens in den Reihen der weit weniger bekannten Elfendiebesgilde von Everlund, den Schurken der lachenden Dämmerung. Die Schurken der fehlenden Seiten arbeiten gut mit der Geistlichkeit Erevans zusammen insbesondere mit Göttlichen Suchern und Unruhestiftern , aber ebenso mit Diebesakrobaten, Schattentänzern und Tempelplünderern von Erevan Ilesere. Sie gehören zu den fähigsten und mächtigsten Dieben der Reiche und zögern nicht, einen Verzögerten Meteorenschwarm in der Hauptkapelle einer rivalisierenden Gottheit zu entfesseln oder einen Gegner mit Hautabschälen zu belegen, nachdem sie ihm einen unschätzbaren Gegenstand oder ein Artefakt entwendet haben. Oft werden sie auf hochgefährliche Missionen geschickt, um gestohlene Elfenartefakte und magische Gegenstände aus anderen Kirchen und von anderen Völkern zurückzuholen.
+
+WERTE:
+
+Ausrüstungsboni:
+
+Schutz vor kritischen Treffern
+Trefferpunkte: +5
+
+Aufladungsfähigkeiten:
+
+Dreimal täglich den Zauber Fallen finden (Stufe 10) wirken
+
+Voraussetzungen: Geschicklichkeit 15, Intelligenz 12
+
+Gewicht: 1 Pfund~
+@147   = ~Faustschild der unerwarteten Macht +2~
+@148   = ~Faustschild der unerwarteten Macht, auch bekannt, wenn auch weniger geläufig und eher umstritten, als der Arm des Existenzialisten. Dieser spezielle Faustschild ist sehr alt. Ursprünglich diente er lediglich als heraldischer Wandschmuck einer überaus wohlhabenden Adelsfamilie aus der Hafenstadt West Gate. Das einst stolze Familienwappen ist heute unkenntlich, da es in einem Wutanfall zerschlagen und geschändet wurde. Stattdessen prangt nun ein neues, darübergelegtes Symbol auf dem Schildbuckel, das Zeichen für den Magierzauber des 6. Grades: "Tensers Verwandlung". Über die Geschichte des Schildes streiten sich viele Historiker aus West Gate und widersprechen einander, da die meisten Aufzeichnungen bestenfalls lückenhaft, blutbefleckt oder nachträglich umgeschrieben sind. Dennoch herrscht Einigkeit über einige grundlegende Fakten. Zwischen den Jahren 257 und 260 DR wurde die Hafenstadt West Gate, auch bekannt als das Tor zum Westen (aus Richtung des östlichen Binnenmeeres), erfolgreich überfallen. Die herrschende Macht wurde gestürzt und gewaltsam durch Piraten von den Pirateninseln ersetzt. Der Umsturz der alten Ordnung stürzte die reichsten Handelsfamilien der Stadt in große Unruhe, da sie durch Erpressung, unfaire Handelsgesetze und massive Besteuerung ihrer Geschäfte unter Druck gesetzt wurden. Zahlreiche Quellen widersprechen einander bei der Frage, mit welcher Adelsfamilie dieser Schild und seine turbulente Geschichte verknüpft sind. Doch die meisten Historiker sind sich einig, dass der Schild kurz nach Einführung der neuen, ungerechten Rechtsordnung durch den selbsternannten Piratenkönig von West Gate seine heutige Gestalt annahm. Die meisten Quellen bestätigen, dass die Einführung einer besonders hohen Handelssteuer für die wohlhabendsten Adels- und Kaufmannsfamilien von West Gate einen hoch angesehenen Adligen dazu veranlasste, öffentlich gegen diese Abgaben zu protestieren. Am darauffolgenden Mittag wurde dieser einflussreiche Adlige auf dem Marktplatz der Stadt am helllichten Tag von einer Bande der königlichen Piraten erschlagen und zwar in Sichtweite und nur einen Steinwurf von den Hauptgeschäftssitzen der meisten adligen Handelsfamilien entfernt. Die Handelsfamilien werteten dies als drakonische Botschaft: Entweder man akzeptierte die neue Steuer widerspruchslos oder man riskierte einen schnellen, grausamen Tod. An diesem Punkt beginnt die Geschichte zu zerfasern. Es häufen sich widersprüchliche Angaben zu wesentlichen Details, und unter den führenden Historikern von West Gate entbrennen hitzige Debatten. Dennoch bleiben einige wenige Einzelheiten schlüssig und klar. Kurz nach dem ruchlosen und vorzeitigen Tod eines besonders charismatischen Adligen aus einer der einflussreichen Handelsfamilien von West Gate sah sich ein junger adliger Halbelfen-Magier (oder arkaner Zauberwirker) dem Druck ausgesetzt, sich entweder der korrupten Herrscherclique des Piratenkönigs oder einer auswärtigen Macht aus Cormyr anzuschließen, die diese Herrschaft von innen heraus stürzen wollte. Über die darauffolgenden kurzen Episoden der Geschichte gehen die Meinungen der Quellen weit auseinander, doch die meisten sind sich einig, dass der halbelfische Zauberwirker keine Partei ergriff und sein adliges Haus in West Gate unter gewaltsamen Umständen und im Streit verließ. Wer an den falschen Orten in West Gate nach den Gründen hierfür fragte, riskierte hitzige Wortgefechte, gewaltsame Schlägereien und sogar blutige Auseinandersetzungen zwischen einigen der zwielichtigeren Adelshäuser der Stadt. Viele glauben, dass jener einstige junge Adlige und Halbelfen-Magier dasselbe blaue Blut in den Adern trug wie der letzte wahre König von West Gate und dass er der einzige Überlebende der königlichen Blutlinie nach dem Piratenumsturz war. Infolge dieser heftigen Debatten kam es immer wieder zu heimlichem Blutvergießen unter einigen der alteingesessenen Adelsfamilien. Manche dieser Familien erheben Anspruch auf die Herrschaft über West Gate, da sie fest davon überzeugt sind, dass ihre Blutlinie auf jenen Halbelfen-Magier zurückgeht, dem dieser spezielle Faustschild einst gehörte. Ob sich die Angelegenheit friedlich lösen oder überhaupt legen wird, ist ungewiss. Eines jedoch steht fest: Die magische Verzauberung, die auf diesem kleinen Schild ruht, ist außerordentlich stark. Weitgehend herrscht Einigkeit darüber, dass nur ein überaus mächtiger oder hervorragend ausgebildeter Zauberwirker eine solche Verzauberung auf diesen höchst umstrittenen Schild gewirkt haben kann. Warum und wie eine derart seltsame und bizarre Kombination aus Fähigkeiten und Voraussetzungen für diese ungewöhnliche Verzauberung genutzt wurde, bleibt ein umstrittenes Rätsel. Ebenso unbekannt ist, wie der Gegenstand verwendet wurde oder wie die ungewöhnliche Magie auf ihn übertragen wurde. Unter Historikern und Gelehrten wird heftig über den Gebrauch und die Geschichte dieses Gegenstands debattiert. Die Berichte reichen von Erzählungen über große Abenteuer bis hin zu Schilderungen von kleinmütiger Feigheit und dem Rückzug ins Verborgene. Wie auch immer man die Geschichte und die Kontroverse um diesen kleinen, aber überraschend mächtigen Faustschild betrachtet, eines ist sicher: Der Schild besitzt einen erstaunlichen Wert und eine unerwartete Macht, sowohl in physischer als auch in politischer Hinsicht.
+
+WERTE:
+
+Passive Boni:
+
+Rüstungsklasse: +3 (-2 gegen Geschosse, -3 gegen Stichwaffen)
+Rüstungsklasse: +1 gegen Fernkampfangriffe
+
+Gewährt Fertigkeit (ein Slot) im Kampfstil Schwert und Schild
+
+Aktivierbare Fähigkeiten:
+
+Kann dreimal täglich Tensers Verwandlung (als Zauberer der 10. Stufe) wirken:
+
+Tensers Verwandlung verwandelt den Zaubernden für eine Runde pro Stufe in einen heldenhaften Kämpfer. Dadurch werden die Trefferpunkte des Ziels verdoppelt und es erhält einen Bonus von +4 auf die Rüstungsklasse. Jeglicher Schaden, den der Zaubernde erleidet, wird zuerst von den zusätzlichen Trefferpunkten abgezogen. Alle Angriffe des Zaubernden haben dieselbe Trefferchance wie die eines Kämpfers der gleichen Stufe. Zudem darf das Ziel zweimal pro Runde angreifen und erhält einen Schadensbonus von +2 pro Treffer.
+
+Gewicht: 1 Pfund~
+@149   = ~Ring des präzisen Schlags +1~
+@150   = ~Ringe des präzisen Schlags sind in den Reichen nicht weit verbreitet, tauchen jedoch bisweilen im Gepäck umherziehender Abenteurer auf. Auf den ersten Blick mag dieser magische Ring wie ein gewöhnliches Schmuckstück wirken, verziert mit einem tiefschwarzen Obsidian, der den Blick auf sich zieht. Doch im Eifer des Gefechts beginnt er schwach zu leuchten und fühlt sich warm an. Wer einen dieser Ringe trägt und mit einer Nahkampfwaffe zuschlägt, dessen Hände scheinen wie von selbst zu gleiten und Schwachstellen in der Haltung und Verteidigung des Gegners aufzudecken. Diese großartigen magischen Ringe werden oft an Lehrlinge von Adligen oder wohlhabenden Gönnern vergeben, um deren Nahkampffertigkeiten zu verbessern, sobald sie den Übergang vom Lehrling zum Gesellen im blutigen Handwerk des Nahkampfs vollzogen haben. Daher sind diese Ringe bei all jenen heiß begehrt, die eine Klinge oder eine wuchtige Hieb- bzw. Schlagwaffe führen. Wie auch die mächtigeren magischen Gegenstände, die Waffengeschick und Kampfkunst steigern, verleihen diese Ringe zwar tödliche Fähigkeiten, jedoch nicht die Weisheit, lange genug zu überleben, um dieses Können auch zu bewahren.
+
+WERTE:
+
+Eigenschaften bei Ausrüstung:
+
+THAC0 (Nahkampf): +1~
+
+@151   = ~Rote Drachenschuppenrüstung +2~
+@152   = ~Diese schimmernde, karmesinrote Lederrüstung ist weich und geschmeidig, ungeachtet der Widerstandsfähigkeit ihrer Platten aus roten Drachenschuppen. Der Träger dieser Rüstung ist selbst gegen schwerste Hiebe geschützt und zudem feuerresistent. Dennoch ist Vorsicht geboten, wenn man sie in der Nähe von chromatischen Drachen trägt insbesondere bei roten Exemplaren.
+
+WERTE:
+
+Eigenschaften bei Ausrüstung:
+
+Feuerresistenz: +66 %
+
+Rüstungsklasse: 5 (+3 gegen Hiebwaffen, +4 gegen Stich- und Fernkampfwaffen)
+Voraussetzung: 6 Stärke
+
+Gewicht: 7 Pfund~
+@153   = ~Diese Rüstung widersetzt sich jedem Versuch, sie anzulegen, indem sie den Träger zu erdrosseln droht. Wahrscheinlich ist sie auf ihren Besitzer abgestimmt und kann von niemand anderem genutzt werden.~ [GAM_47]
