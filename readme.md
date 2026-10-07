@@ -1,6 +1,6 @@
-# Extra Expanded Enhanced Encounters!-lite
+# ExtraExpandedEnhancedEcounters!-lite
 
-Extra Expanded Enhanced Encounters!-lite (or just EEEE for short) adds a few additional encounters to Baldur's Gate 1 with some additional items.
+ExtraExpandedEnhancedEcounters!-lite (or just EEEE for short) adds a few additional encounters to Baldur's Gate 1 with some additional items.
 This mod requires the Enhanced Editions.
 Includes EET compatibility.
 
@@ -37,7 +37,7 @@ This component also adds additional effects to his moonblade.
 
 ### Daenni's Bridge Bandits
 
-Adds an encounter against Daenni and her guards to the lower bridge of Cloakwook Wyverns.
+Adds an encounter against Daenni and her guards to the lower bridge of Cloakwood Wyverns.
 
 ### The Fire Drake in the Wyvern Cave
 
