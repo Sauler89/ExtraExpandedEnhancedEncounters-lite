@@ -7,6 +7,8 @@ Includes EET compatibility.
 Original author: WithinAmnesia (v1.0)
 Maintenance: Graion Dilach (v2.0+)
 
+> **ExtraExpandedEnhancedEcounters!-lite** is a reduced version of the original Extra Expanded Enhanced Encounters! mod. It intentionally includes only a selected subset of the original components.
+
 ## Install order instructions
 
 This mod should be installed after (along with other) questmods but before tweakmods.
@@ -109,6 +111,6 @@ Added: German translation by Nibor_Scot.
 
 ### Version 4.5-lite.1
 
-Changed: Lite package now contains only the selected encounter set.
+Changed: This reduced edition is named ExtraExpandedEnhancedEcounters!-lite and contains only the selected encounter set.
 Changed: U.M.B.E.R.S. preserves the existing Magma Bulwark inventory icon.
 Fixed: Project Infinity metadata now points to this repository and uses consistent mod naming.
