@@ -5,7 +5,7 @@ This mod requires the Enhanced Editions.
 Includes EET compatibility.
 
 Original author: WithinAmnesia (v1.0)
-Maintainance: Graion Dilach (v2.0+)
+Maintenance: Graion Dilach (v2.0+)
 
 ## Install order instructions
 
@@ -21,12 +21,6 @@ Adds a gnome fighter/cleric assassin awaiting the Bhaalspawn near the Crossroads
 ### Bimmy's Badgering Bandits
 
 Adds Bimmy, the human wizard slayer to Ioin Gallchobhair's group in the Lonely Peaks.
-
-### Reinforced Gnoll Stronghold
-
-This component adds a lot of tougher gnolls to the Stronghold area. It also adds a few jellies/puddings to some of the pits.
-**Note that this component heavily changes the experience and the powerlevel of the Stronghold area. Do not install this component if you like to rush the Stronghold for the tome.**
-*Maintainer's note: This component is considered to be split apart at one point to decrease difficulty in a possible future release.*
 
 ### Bear Encounter near the Gnoll Stronghold
 
@@ -51,7 +45,6 @@ Also allows Taerom to craft an additional armor after the encounter.
 ### Undercity Magma Bulwark Encounter; Red Skeleton-(U.M.B.E.R.S.)
 
 Adds an encounter against a fair amount of skeletons around the Magma Bulwark introduced in the Enhanced Edition.
-Also changes the icon of the Magma Bulwark.
 
 ## Version History:
 
@@ -60,9 +53,6 @@ Also changes the icon of the Magma Bulwark.
 Initial release
 
 ### Version 2.0
-
-Fixed: Gnolls using nonexistant item OLEAT10 instead of LEAT10 (Hide Armor).
-Fixed: "Conflict" with Ascalon's Questpack - Feast of Gnolls - Fission Slime no longer spawns if Aaron occupies the cell.
 
 Changed: Each area encounter is now a separate component.
 Note: The Gnoll Stronghold bear cave encounter only uses SoD monsters, so it's skipped on vanilla BGEE.
@@ -85,13 +75,9 @@ Fixed: Many description inconsistencies.
 
 Changed: Moonblade no longer provides additional magical fire resistance, and the leech-life damage is delivered as magic damage. Restored BGEE assumption of using Dagger class.
 Changed: Melia's Ring of Accurate Striking only provides +1 Melee THAC0 (Mulahey's remained untouched).
-Changed: No longer substitute vanilla items but patch them (Xan's Moonblade, Magma Bulwark, Bimmy's helmet).
+Changed: No longer substitute vanilla items but patch them (Xan's Moonblade, Bimmy's helmet).
 Changed: The mod no longer tries to completely rearrange the contents of Mulahey's chest.
 Changed: Removed additional type of healing potions and substituted them with BG1 counterparts and Potion of Fortitude.
-
-### Version 3.1
-
-Changed: Expose the Magma Bulwark icon patching to an external ini configuration option, to allow players to have the alternative icon in Tweaks Anthology v13's Unique Icons with the U.M.B.E.R.S. component. Prior to the mod installation; copy the ini/ol_eeee.ini file to override and edit ol_magma_bulwark_icon value to 0 for this option.
 
 ### Version 3.2
 
@@ -103,7 +89,7 @@ Adds Russian translation by yota13 & p_zombie.
 
 ### Version 4.1
 
-Fixed: wrong random treasures dropped in the Gnoll Stronghold and Undercity section on EET.
+Fixed: wrong random treasures dropped in the Undercity section on EET.
 
 ### Version 4.2
 
@@ -120,3 +106,9 @@ Added: Polish translation by Aristo.
 ### Version 4.5
 
 Added: German translation by Nibor_Scot.
+
+### Version 4.5-lite.1
+
+Changed: Lite package now contains only the selected encounter set.
+Changed: U.M.B.E.R.S. preserves the existing Magma Bulwark inventory icon.
+Fixed: Project Infinity metadata now points to this repository and uses consistent mod naming.

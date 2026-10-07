@@ -1,7 +1,7 @@
 BACKUP ~ExtraExpandedEnhancedEncounters/backup~
 // AUTHOR ~Within Amnesia~
 SUPPORT "https://forums.beamdog.com/discussion/73749"
-VERSION ~4.5~
+VERSION ~4.5-lite.1~
 
 ALWAYS
 	PRINT @0
@@ -120,67 +120,6 @@ REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @11
 	END
 
 	COMPILE EVALUATE_BUFFER ~ExtraExpandedEnhancedEncounters/dialogue/OLCANTO.D~
-
-BEGIN @3
-DESIGNATED 2
-LABEL OL-EEEE-GNOLL-STRONGHOLD //AR5100
-REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @11
-
-	EXTEND_BOTTOM ~%area_prefix%5100.BCS~ ~ExtraExpandedEnhancedEncounters/OL5100.BAF~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLLC.cre~ ~override~
-		SAY 0x8 @112
-		SAY 0xC @112
-		WRITE_ASCII 0x2cc ~OLGNOLLC~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLLL.cre~ ~override~
-		SAY 0x8 @113
-		SAY 0xC @113
-		WRITE_ASCII 0x2cc ~OLGNOLLL~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLLV.cre~ ~override~
-		SAY 0x8 @114
-		SAY 0xC @114
-		WRITE_ASCII 0x2cc ~OLGNOLLV~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLLE.cre~ ~override~
-		SAY 0x8 @115
-		SAY 0xC @115
-		WRITE_ASCII 0x2cc ~OLGNOLLE~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLLS.cre~ ~override~
-		SAY 0x8 @116
-		SAY 0xC @116
-		WRITE_ASCII 0x2cc ~OLGNOLLS~
-
-	COPY ~ExtraExpandedEnhancedEncounters/creatures/OLGNOLL.cre~ ~override~
-		SAY 0x8 @117
-		SAY 0xC @117
-		WRITE_ASCII 0x2cc ~OLGNOLL~
-
-	ACTION_IF FILE_EXISTS_IN_GAME ~bdcaelar.cre~
-	BEGIN
-		EXTEND_BOTTOM ~%area_prefix%5100.BCS~ ~ExtraExpandedEnhancedEncounters/OL5100S.BAF~
-	END
-
-	ACTION_IF isEET == 1
-	BEGIN
-		COPY_EXISTING_REGEXP GLOB ~OLGNOL.*\.cre~ ~override~
-			WRITE_LONG BATTLE_CRY1 205512
-			WRITE_LONG BATTLE_CRY2 205139
-			WRITE_LONG DAMAGE 205517
-			WRITE_LONG DYING 205518
-			WRITE_LONG SELECT_COMMON1 205510
-			WRITE_LONG SELECT_COMMON2 205511
-			LPM PATCH_EET_RANDOM_TREASURES
-		BUT_ONLY
-	END
-
-	// Prevent spawning the Fission Slime if Aaron from Ascalon's Questpack - Feast of Gnolls already occupies the cell
-	ACTION_IF NOT FILE_EXISTS_IN_GAME ~ACQ12002.CRE~
-	BEGIN
-		EXTEND_BOTTOM ~%area_prefix%5100.BCS~ ~ExtraExpandedEnhancedEncounters/OL5100FS.BAF~
-	END
 
 BEGIN @4
 DESIGNATED 3
@@ -348,13 +287,6 @@ DESIGNATED 7
 LABEL OL-EEEE-UNDERCITY //AR0123
 REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @11
 
-	ACTION_IF !(FILE_EXISTS ~override/ol_eeee.ini~)
-	BEGIN
-		COPY ~ExtraExpandedEnhancedEncounters/ini/ol_eeee.ini~ ~override~
-  	END
-
-	INCLUDE ~override/ol_eeee.ini~
-
 	COPY_EXISTING ~%area_prefix%0123.ARE~ ~override~	// Removes PLAT24
 		LPF DELETE_AREA_ITEM STR_VAR item_to_delete = "PLAT24" END
 		BUT_ONLY
@@ -392,15 +324,6 @@ REQUIRE_PREDICATE (GAME_IS ~bgee eet~) @11
 		SAY 0x8 @108
 		SAY 0xC @108
 		WRITE_ASCII 0x2cc ~OLSKEL6G~
-
-	ACTION_IF ol_magma_bulwark_icon == 1
-	BEGIN
-		COPY_EXISTING ~PLAT24.ITM~ ~override~
-			WRITE_ASCII 0x3A ~OLPLAT24~
-			BUT_ONLY
-	END
-
-	COPY ~ExtraExpandedEnhancedEncounters/items/OLPLAT24.BAM~ ~override~
 
 	COPY ~ExtraExpandedEnhancedEncounters/items/OLBOOT04.ITM~ ~override~
 		SAY 0xC @137
