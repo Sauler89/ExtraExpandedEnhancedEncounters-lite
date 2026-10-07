@@ -7,7 +7,7 @@ Includes EET compatibility.
 Original author: WithinAmnesia (v1.0)
 Maintenance: Graion Dilach (v2.0+)
 
-> **ExtraExpandedEnhancedEcounters!-lite** is a reduced version of the original Extra Expanded Enhanced Encounters! mod. It intentionally includes only a selected subset of the original components. The Magma Bulwark keeps its vanilla inventory icon to preserve compatibility with the Tweaks Anthology component that modifies item icons.
+> **ExtraExpandedEnhancedEcounters!-lite** is a reduced version of the original Extra Expanded Enhanced Encounters! mod. It intentionally includes only a selected subset of the original components. The Magma Bulwark keeps its vanilla inventory icon to preserve compatibility with the Tweaks Anthology component that modifies item icons. The Reinforced Gnoll Stronghold component was removed solely for strictly personal use, in order to maintain compatibility with Tactics Remix.
 
 ## Install order instructions
 
