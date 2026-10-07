@@ -1,6 +1,6 @@
-# Extra Expanded Enhanced Encounters!
+# Extra Expanded Enhanced Encounters!-lite
 
-Extra Expanded Enhanced Encounters! (or just EEEE for short) adds a few additional encounters to Baldur's Gate 1 with some additional items.
+Extra Expanded Enhanced Encounters!-lite (or just EEEE for short) adds a few additional encounters to Baldur's Gate 1 with some additional items.
 This mod requires the Enhanced Editions.
 Includes EET compatibility.
 
